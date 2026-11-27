@@ -1,0 +1,19 @@
+# Lokale Einstellungen, Saves & Logs
+save/
+*.log
+
+# Engine-Binaries (kannst du auf jedem Rechner frisch entpacken)
+Ikemen_GO_Linux
+*.exe
+*.dll
+*.so
+
+# Große Musikdateien & fremde Media-Assets
+sound/*.mp3
+sound/*.ogg
+sound/*.wav
+font/*.ttf
+
+# Fremde, heruntergeladene Charaktere & Stages (optional: eigene gezielt freigeben)
+# Wenn du fremde Chars ignorieren und nur deine eigenen tracken willst,
+# kannst du einzelne Ordner später mit "!chars/php-elefant/" wieder erlauben.
