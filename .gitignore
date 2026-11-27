@@ -1,5 +1,4 @@
 # local saves and logs
-save/
 *.log
 
 # binaries
@@ -8,11 +7,7 @@ Ikemen_GO_Linux
 *.dll
 *.so
 
-# Gsound
-sound/*.mp3
-sound/*.ogg
-sound/*.wav
-font/*.ttf
+# sound
 
 # chars
 
